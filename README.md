@@ -1,5 +1,5 @@
 # An Analysis of Kickstarter Campaigns
-Data analysis was performed on the data shown in the excel sheets to uncover the hidden trends among the nearly four thousand crowdfunding projects. Please see below the analysis and graphs.
+Louise is thinking about launching a compaign and hoping that Kickstarter data can provide some insights for her own compaign and have a successfully result. Data analysis was performed on the data shown in the excel sheets to uncover the hidden trends among nearly four thousand crowdfunding projects. Please see below the analysis with graphs and the recommendations for Louise.
 
 * May and June both have a greater success rate
 ![OutcomesBasedOnLaunchDate.png](OutcomesBasedOnLaunchDate.png)
